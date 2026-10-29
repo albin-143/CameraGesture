@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Camera Gesture</string>
+    <string name="service_desc">Shows a small touch area over the camera notch so taps and swipes there can run actions.</string>
+</resources>
